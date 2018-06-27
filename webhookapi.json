@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "active": true,
+  "events": [
+    "push",
+    "pull_request"
+  ],
+  "config": {
+    "url": "https://master.manawa.dev.adeo.cloud:443/apis/build.openshift.io/v1/namespaces/devweek-bmixte/buildconfigs/devweek-bmixte/webhooks/IDiDrV2p8RljqHob-okh/github",
+    "content_type": "json",
+    "insecure_ssl": "1"
+  }
+}
