@@ -6,7 +6,7 @@
     "pull_request"
   ],
   "config": {
-    "url": "https://manawa.euw1-gcp-poc.adeo.cloud:443/apis/build.openshift.io/v1/namespaces/devweek-bmixte/buildconfigs/devweek-bmixte/webhooks/EkXq0SJ0ZBUUdenLFN5u/github",
+    "url": "https://manawa.euw1-gcp-poc.adeo.cloud:443/apis/build.openshift.io/v1/namespaces/devweek-bmixte/buildconfigs/devweek-bmixte/webhooks/XxUaFCoA8tPkyrbLAhHK/github",
     "content_type": "json",
     "insecure_ssl": "1"
   }
